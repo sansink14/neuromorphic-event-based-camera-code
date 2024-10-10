@@ -24,6 +24,9 @@ https://onlinelibrary.wiley.com/doi/10.1002/sat.1426
 using the water vapor, co2 absorption and other aerosol absorption spectra, a region of wavelengths best suited for this is between 1550nm. close to the optical CLU bands. 
 (might be useful to follow the maths and show what is best within the 0 - 10km atmosphere region.) (airplanes fly about 8 - 11km)
 
+testing FSO in a coastal environment to see a derived attenuation coefficient.
+https://opg.optica.org/oe/fulltext.cfm?uri=oe-26-6-6614&id=383128
+1550nm is the least sensitive wavelength in relative humidity and temperature changes. 
 _____
 
 
