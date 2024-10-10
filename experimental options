@@ -7,3 +7,8 @@ ____
 what is the highest bitrate available with a event based camera, if the events have a minimum temporal timestamp resolution of microseconds?
 	is parallel communication useful? 
  	QR based or symbol based communication?
+____
+can the spatial aspect of the event based camera be of use?
+	optical spatial multiplexing?
+	communicating with several points at once?
+____
