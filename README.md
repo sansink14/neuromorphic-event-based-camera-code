@@ -2,10 +2,13 @@
 
 space for collecting findings and information regarding event based cameras and their use in FSOC
 # event based camera
-
+_
+typically data is packeaged into a format e_k = []
+_
 
 
 # FSOC
+_
 https://ieeexplore.ieee.org/document/1577553 
 FSOC wavelength windows - 825nm 1330nm 1550nm 
 
