@@ -1,0 +1,9 @@
+what is the use of an event based camera 
+____
+what is the minimum quality of signal required to detect a pulse??
+	what distortions affects the quality of the signal most? red laser, 850nm laser, 1550nm laser. 
+ 	distortions = {atmospheric scattering/absorption/molecular absorption, diffraction, laser divergence, diffusion(cloud cover) }
+____
+what is the highest bitrate available with a event based camera, if the events have a minimum temporal timestamp resolution of microseconds?
+	is parallel communication useful? 
+ 	QR based or symbol based communication?
