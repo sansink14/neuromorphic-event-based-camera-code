@@ -34,6 +34,8 @@ Large Noise: Due to the structure of the sensor, event cameras are sensitive to 
 Large Pixel Size: The pixel size of the current event camera is larger than that of the traditional camera. The pixel size of the event camera shown in Table I is mostly above 10 μm, while that of the traditional industrial camera is about 2~4 μm. The large pixel size results in a relatively small resolution of the event camera.
 
 Small Fill Factor: Fill factor is the ratio of a pixel’s light-sensitive area to its total area. The fill factor of event cameras is commonly small, which means that much pixel area is useless.
+
+https://youtu.be/cffwH41ReF4?si=bpshDkPw-2nFASnd
 _____
 
 
