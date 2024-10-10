@@ -19,5 +19,11 @@ _____
 optical characterisation of the atmosphere
 https://ntrs.nasa.gov/api/citations/20190001012/downloads/20190001012.pdf
 
+Considering low earth orbit satellites and optical ground station links
+https://onlinelibrary.wiley.com/doi/10.1002/sat.1426
+using the water vapor, co2 absorption and other aerosol absorption spectra, a region of wavelengths best suited for this is between 1550nm. close to the optical CLU bands. 
+(might be useful to follow the maths and show what is best within the 0 - 10km atmosphere region.) (airplanes fly about 8 - 11km)
+
 _____
+
 
