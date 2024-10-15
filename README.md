@@ -51,6 +51,12 @@ typical free space loss is 20 dB (for a point to point system)  -- if we can sti
 
 Atmospheric loss
 This may cause polarization fluctuations, beam steering, image dancing, beam spreading and scintillation. Scintillation causes the amplitude of the received signal to fluctuate rapidly by as much as 30 dB with power spectral density spanning 0.01–200 Hz, and hence give rise to long bursts of data errors.
+
+interconnects on datacenters have started using coherent detection that uses other sensors to extract data. 
+however using coherent detection on an event based camera would be difficult so maybe stick with direct detection.
+
+https://community.fs.com/article/100g-metro-data-center-interconnectivity-dci-coherent-vs-direct-detection.html
+
 _____
 optical characterisation of the atmosphere
 https://ntrs.nasa.gov/api/citations/20190001012/downloads/20190001012.pdf
