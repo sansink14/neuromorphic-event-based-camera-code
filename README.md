@@ -36,6 +36,10 @@ Large Pixel Size: The pixel size of the current event camera is larger than that
 Small Fill Factor: Fill factor is the ratio of a pixel’s light-sensitive area to its total area. The fill factor of event cameras is commonly small, which means that much pixel area is useless.
 
 https://youtu.be/cffwH41ReF4?si=bpshDkPw-2nFASnd
+
+individual pixels talk to the readout via a request and an acknowledge.
+parallel communications by reading separate events across the image? could identify the communication source based on, like a ethernet?
+
 _____
 
 
