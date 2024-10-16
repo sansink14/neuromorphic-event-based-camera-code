@@ -57,6 +57,10 @@ however using coherent detection on an event based camera would be difficult so 
 
 https://community.fs.com/article/100g-metro-data-center-interconnectivity-dci-coherent-vs-direct-detection.html
 
+coherent detection methods
+https://ntrs.nasa.gov/api/citations/20200006812/downloads/20200006812.pdf
+
+
 _____
 optical characterisation of the atmosphere
 https://ntrs.nasa.gov/api/citations/20190001012/downloads/20190001012.pdf
